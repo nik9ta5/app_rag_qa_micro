@@ -1,0 +1,1 @@
+Application refactoring: https://github.com/nik9ta5/app_q-a
