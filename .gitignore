@@ -17,3 +17,5 @@ test_simple_client/
 
 vector_store/qdrant_snapshots/
 vector_store/qdrant_storage
+
+logs/
